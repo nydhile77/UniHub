@@ -64,7 +64,7 @@ const Login = () => {
         >
           <div className="lg:hidden flex items-center gap-3 mb-8 justify-center">
             <GraduationCap className="w-10 h-10 text-primary" />
-            <span className="text-3xl text-primary">UniPortal</span>
+            <span className="text-3xl text-primary">UniHub</span>
           </div>
 
           <Card className="border-0 shadow-lg">

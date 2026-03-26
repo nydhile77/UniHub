@@ -46,7 +46,7 @@ export function AppSidebar() {
     <Sidebar collapsible="icon">
       <div className="p-4 flex items-center gap-3">
         <GraduationCap className="w-8 h-8 text-sidebar-ring shrink-0" />
-        {!collapsed && <span className="text-xl text-sidebar-primary font-serif">UniPortal</span>}
+        {!collapsed && <span className="text-xl text-sidebar-primary font-serif">UniHub</span>}
       </div>
 
       <SidebarContent>
