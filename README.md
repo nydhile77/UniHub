@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Welcome to UniHub project
 
-TODO: Document your project here
+UniHub is a university portal for students to sty on treack with their assignments, attendance and events.
