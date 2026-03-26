@@ -47,7 +47,7 @@ const Login = () => {
           className="relative z-10 text-primary-foreground text-center"
         >
           <GraduationCap className="w-20 h-20 mx-auto mb-6 text-accent" />
-          <h1 className="text-5xl mb-4">UniPortal</h1>
+          <h1 className="text-5xl mb-4">UniHub</h1>
           <p className="text-lg opacity-80 font-sans max-w-md">
             Your academic journey, streamlined. Access grades, attendance, assignments, and more.
           </p>
